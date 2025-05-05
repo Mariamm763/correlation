@@ -22,4 +22,4 @@ Python 3.6+
 
 ## 👩‍💻 Author
 
-...
+Maria Lyasota
